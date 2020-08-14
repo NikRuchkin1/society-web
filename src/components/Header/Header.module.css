@@ -1,0 +1,81 @@
+.home {
+    color: #000;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 21px;
+    font-family: unset;
+}
+
+.home:hover {
+    color:#dc4734;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.home.activeList{
+    color: #dc4734;
+}
+
+.message.activeList{
+    color: #dc4734;
+}
+
+.notification.activeList{
+    color: #dc4734;
+}
+
+.container-fluid {
+    padding: 0px !important;
+}
+
+.boxFixed {
+    position:fixed;
+    width:100%;
+    z-Index: 9;
+    background-Color:#fff;
+}
+
+.first_box {
+    text-Align:left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.dopbox{
+    min-Width:1100px;
+    max-Width:1100px;
+    margin:auto;
+}
+
+.img_box{
+    padding-Top: 8px;
+    text-Align: center;
+}
+
+.find_box{
+    text-Align: right;
+    margin: auto;
+    float: right;
+    text-align: right;
+}
+
+.input{
+    width: 200px;
+    background-Color: #BBCCCA;
+    margin-Top:3px;
+    padding: 3px;
+    border: 0px;
+    border-Bottom: 2px solid black;
+    background-Color: #fff;
+}
+
+.input:focus {
+    outline: none;
+    border-bottom: 2px solid #dc4734;
+    transition: 0.3s;
+    outline-offset: 0px;
+}
+
+.login {
+    float: right;
+}

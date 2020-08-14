@@ -1,0 +1,11 @@
+.div{
+    float: left;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.imgProfile {
+    width: 150px;
+}

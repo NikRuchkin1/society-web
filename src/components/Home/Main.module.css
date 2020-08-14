@@ -1,0 +1,8 @@
+.linked {
+    color: black;
+}
+
+.linked:hover{
+    text-decoration: none;
+    color: black;
+}

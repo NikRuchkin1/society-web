@@ -1,0 +1,16 @@
+.name {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.dialog {
+    background-color:#fff;
+    padding: 15px;
+}
+
+.names {
+    text-decoration: none;
+    color:#000;
+    font-weight: 600;
+    font-size: 18px;
+}
